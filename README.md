@@ -1,35 +1,43 @@
-#✈️ Air Travel Analytics Dashboard (Power BI)
-📌 Project Overview
+# ✈️ Air Travel Analytics Dashboard (Power BI)
 
-This project presents an interactive Air Travel Analytics Dashboard built using Power BI.
-It analyzes airline data to provide insights into ticket prices, flight duration, stops, and airline performance.
+## 📌 Description
+An **interactive Air Travel Analytics Dashboard** built using **Power BI** to analyze airline data and uncover key insights into **ticket pricing, flight duration, number of stops, and airline performance**.
 
-The dashboard helps users understand pricing trends and make better travel decisions.
+This project helps in understanding **pricing trends, travel patterns, and cost variations**, enabling better decision-making for travelers.
 
-📊 Key Features
-📈 Price vs Days Left Analysis – Understand how ticket prices change over time
-⏰ Price by Departure Time – Compare ticket prices across different time slots
-🛫 Airline Performance – Total revenue contribution by airlines
-💺 Class-wise Price Analysis – Business vs Economy pricing comparison
-🔄 Stops Analysis – Distribution of flights (non-stop, one-stop, multi-stop)
-📉 Duration vs Price – Relationship between travel time and ticket cost
-🧾 Dashboard Highlights
-💰 Average Ticket Price: ₹21K
-📊 Max Ticket Price: ₹123K
-📉 Min Ticket Price: ₹1K
-✈️ Total Flights Analyzed: 300K
-🛠️ Tools & Technologies Used
-Power BI – Data visualization & dashboard creation
-Excel / CSV Dataset – Data source
-DAX – Calculations & measures
-Data Cleaning & Transformation – Power Query
-📂 Dataset
+---
 
-The dataset used in this project contains:
+##  Key Features
+-  **Price vs Days Left Analysis**
+-  **Price by Departure Time**
+-  **Airline Performance Analysis**
+-  **Class-wise Price Comparison**
+-  **Stops Distribution Analysis**
+-  **Duration vs Price Relationship**
 
-Airline names
-Source & destination cities
-Ticket prices
-Number of stops
-Duration of flights
-Days left before departure
+---
+
+##  Dashboard Highlights
+-  **Average Price:** ₹21K  
+-  **Max Price:** ₹123K  
+-  **Min Price:** ₹1K  
+-  **Total Flights:** 300K  
+
+---
+
+##  Tools & Technologies
+- **Power BI**
+- **DAX (Data Analysis Expressions)**
+- **Power Query**
+- **CSV Dataset**
+
+---
+
+## 📂 Dataset
+The dataset includes:
+- Airline names  
+- Source & destination cities  
+- Ticket prices  
+- Number of stops  
+- Flight duration  
+- Days left before departure
