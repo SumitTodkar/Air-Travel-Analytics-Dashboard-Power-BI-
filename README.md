@@ -41,3 +41,13 @@ The dataset includes:
 - Number of stops  
 - Flight duration  
 - Days left before departure
+📁 File: `data/airlines_flights_data.csv`
+
+## 📸 Dashboard Preview
+<img width="1321" height="738" alt="Screenshot 2026-04-15 095842" src="https://github.com/user-attachments/assets/3e9dfa70-0224-43ff-add8-de535c37913d" />
+
+##  Insights
+- Ticket prices decrease as **days left increases**  
+- **Morning & Night flights** are generally costlier  
+- Majority flights have **one stop (~83%)**  
+- Longer duration flights show **price variation**
